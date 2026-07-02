@@ -1,16 +1,9 @@
+I am an undergraduate student at the School of Mathematical Sciences, Peking University. My background is rooted in mathematical problem solving and competition mathematics, and I am gradually expanding my interests toward algorithms, machine learning, and large language models.
 
+I value rigorous thinking, clear communication, and long-term intellectual growth. At this stage, this page is less a finished research portfolio than a living record of the foundation I am building for future research and internship work.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[GitHub](https://github.com/lyq1119) · [Email](mailto:2500010774@stu.pku.edu.cn)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### Academic Direction
 
-#### Contact
-
-Email: user[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Mathematics, algorithms, and AI research. I am especially interested in how strong mathematical training can support better reasoning, modeling, and implementation in computational systems.

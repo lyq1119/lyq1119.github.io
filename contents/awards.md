@@ -1,12 +1,13 @@
+- **Gold Medal**, European Girls' Mathematical Olympiad (EGMO), 2025. 8th place globally.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- **Gold Medal**, Chinese Girls' Mathematical Olympiad (CGMO), 2024. 1st place.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- **Gold Medal**, Chinese Mathematical Olympiad (CMO), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- **Third Prize**, PKUCPC team contest, 2026.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- **Third Prize**, English Speech Contest.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+#### Campus & Community
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+Host, University Orientation Party. Organizer, Mathematics Culture Festival. Long-term volunteer in BiliBili public welfare activities.

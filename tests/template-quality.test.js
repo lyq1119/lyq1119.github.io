@@ -57,7 +57,7 @@ assert.equal(/<section[^>]+id="home"/.test(index), false, 'home section should n
 assert.equal(/<section[^>]+id="publications"/.test(index), false, 'publications section should not be hard-coded in index.html');
 assert.equal(/<section[^>]+id="awards"/.test(index), false, 'awards section should not be hard-coded in index.html');
 assert.match(config, /sections:\n\s+-\s+id:\s+home[\s\S]*title:/, 'section entries should define display titles');
-assert.match(config, /id:\s+publications[\s\S]*icon:\s+bi-file-text-fill/, 'section icon should be configured as a Bootstrap Icons class');
+assert.match(config, /id:\s+projects[\s\S]*icon:\s+bi-code-square/, 'project section icon should be configured as a Bootstrap Icons class');
 assert.match(config, /id:\s+awards[\s\S]*icon:\s+bi-award-fill/, 'award icon should be configured as a Bootstrap Icons class');
 assert.match(scripts, /function\s+renderSections/, 'sections should be generated from configuration');
 assert.match(scripts, /bg-gradient-primary-to-secondary-light/, 'generated sections should include light background styling');

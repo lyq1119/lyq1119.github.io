@@ -1,27 +1,34 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Yuqi Lan | Mathematics & AI
+page-top-title: Yuqi Lan
+top-section-bg-text: Mathematics · Algorithms · AI
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
-background-interval-ms: 7000
-background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+  - static/assets/background/yuqi-minimal-academic.png
+background-interval-ms: 9000
+background-overlay: 0.08
+copyright-text: '&copy; Yuqi Lan 2026. All Rights Reserved.'
 github-link:
-  text: Github
-  href: https://github.com/senli1073
+  text: GitHub
+  href: https://github.com/lyq1119
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/lyq1119/lyq1119.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
-    href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
-    icon: bi-file-text-fill
+    title: Yuqi Lan
+    href: '#page-top'
+  - id: education
+    nav: EDUCATION
+    title: EDUCATION
+    icon: bi-mortarboard-fill
+  - id: focus
+    nav: FOCUS
+    title: CURRENT FOCUS
+    icon: bi-diagram-3-fill
+  - id: projects
+    nav: PROJECTS
+    title: PROJECTS & EXPLORATIONS
+    icon: bi-code-square
   - id: awards
     nav: AWARDS
     title: AWARDS
