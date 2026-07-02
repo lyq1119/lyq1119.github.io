@@ -8,9 +8,9 @@ Secondary education, 2023-2025.
 
 #### Selected Coursework
 
-- Mathematical Analysis I: 93
-- Advanced Algebra I (Honors): 92
-- Geometry (Honors): 98
+- Mathematical Analysis I: [90, 100)
+- Advanced Algebra I (Honors): [90, 100)
+- Geometry (Honors): [90, 100)
 - Introduction to Computing B: 100
 
 <span class="note">Honors courses are more advanced than the standard track.</span>
